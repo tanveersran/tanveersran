@@ -1,2 +1,3 @@
-I am a second year student studying Software Development and Network Engineering at Sheridan College. Experience with programming in Java, JavaScript, PHP.
-Always open to learn! 
+Hi. I am a fresh graduate with tons of programming experience and work-place skills. 
+
+A lot of important repositories I have worked on are private currently. Feel free to reach out to check them out and know more! 
